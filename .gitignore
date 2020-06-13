@@ -1,0 +1,6 @@
+out/production/dfsv9/DFS2/*.class
+out/production/dfsv9/DbaseAPI/*.class
+out/production/dfsv9/Encryption/*.class
+out/production/dfsv9/XMLhandler2/*.class
+out/production/dfsv9/test/AEvent.class
+src/test/*.java
